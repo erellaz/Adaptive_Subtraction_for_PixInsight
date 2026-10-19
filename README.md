@@ -33,6 +33,7 @@ Inputs: A and B linear, monochrome, same dimensions and registered; B contains o
 
 [`AdaptiveSubtraction_how_it_works.docx`](AdaptiveSubtraction_how_it_works.docx) is the user guide and technical description. It covers the quick start, recommended settings per use case, the method with its equations, the parameters, validation and limitations.
 
+![ScreenShot](./AdaptiveSubtraction.png)
 
 ## Author and license
 
